@@ -36,4 +36,4 @@ I've been studying coding in my spare time, and am excited to be learning new th
 
 <a href="http://www.github.com/arslonga83"><img src="https://activity-graph.herokuapp.com/graph?username=arslonga83&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslonga83)](https://github.com/arslonga83/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslonga83&layout=compact)](https://github.com/arslonga83/github-readme-stats)
