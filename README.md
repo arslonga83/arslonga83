@@ -4,7 +4,7 @@ Hi 👋 My name is Jeff
 Web Developer
 -------------
 
-I've been studying coding in my spare time, and am excited to be learning new things after many years in the music industry. I'm especially drawn to the variety, creativity, and problem solving that seem to make up the day-to-day work of a developer. Can't wait to find the right place to put my new skills to work!
+I've been working in the music industry for several decades and have always had an interest in technology. I taught myself some basic coding skills and have been enjoying putting them to work where I can - currently by maintaining a simple site that I built for the choir I accompany. I'm also a ham radio operator, and enjoy exploring the different modes I can operate with the help of a raspberry pi.
 
 * 🌍  I'm based in Oregon
 
